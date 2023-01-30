@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Developed By Akia
 
 Portfolio Website that showcases recent works
