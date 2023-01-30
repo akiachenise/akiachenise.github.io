@@ -7,6 +7,6 @@ Portfolio Website that showcases recent works
 
 Contributors names and contact info
 
-ex. Akia Young
-ex. [@KiiaaBiiaa](https://twitter.com/kiiaabiiaa)
+ Akia Young
+[@KiiaaBiiaa](https://twitter.com/kiiaabiiaa)
 
