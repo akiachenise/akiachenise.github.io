@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>My Game Ranking List</title>
+    <meta name="description" content="My Game Ranking" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto&display=swap">
+  </head>
+  <body>
+    <!--[if lt IE 7]>
+      <p class="browsehappy">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="#">upgrade your browser</a> to improve your experience.
+      </p>
+    <![endif]-->
+    <span class="headerContainer">
+        <h1>My Game Ranking List</h1>
+        <button id="addCard">Add Game</button>
+    </span>
+    <div id="board">
+        <div class = "row">
+            <div class = "label">Love It</div>
+            <div class="card" id="first" draggable="true">first one</div>
+            <div class="card" id="second" draggable="true">second one</div>
+            <div class="card" id="third" draggable="true">third one</div>
+            <div class="card" id="fourth" draggable="true">fourth one</div>
+            <div class="card" id="fifth" draggable="true">fifth one</div>
+            <div class="card" id="sixth" draggable="true">sixth one</div>
+            <div class="card" id="seventh" draggable="true">seventh one</div>
+            <div class="card" id="eighth" draggable="true">eighth one</div>
+            <div class="card" id="ninth" draggable="true">ninth one</div>
+            <div class="card" id="ninth" draggable="true">tenth one</div>
+        
+        </div>
+        <div class = "row">
+            <div class = "label">Like It</div>
+        </div>
+        <div class = "row">
+            <div class = "label">Leave It</div>
+        </div>
+        <div class = "row">
+            <div class = "label">Haven't Played</div>
+        </div>
+        
+    </div>
+    
+
+    <script src="js/cards.js" async defer></script>
+    <script src="js/rows.js" async defer></script>
+  </body>
+</html>
