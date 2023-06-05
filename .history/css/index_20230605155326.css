@@ -277,13 +277,6 @@ body{
     animation-iteration-count: infinite;
     animation-play-state: running;
 }
-
-label {
-    display: block;
-    margin-bottom: 10px;
-    font-weight: bold;
-    color: (255, 255, 255);
-  }
 @keyframes animateslash{
     0%{
         opacity: 1;
