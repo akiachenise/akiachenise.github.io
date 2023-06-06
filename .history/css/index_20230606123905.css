@@ -14,11 +14,11 @@
 }
 ::-webkit-scrollbar {
   width: 4px;
-  color: #49b9ca
+  color: #49b9ca;
   transition: all 0.4s ease;
 }
 ::-webkit-scrollbar-thumb {
-  background: #49b9ca;
+  background: #800080;
   border-radius: 4px;
   width: 4px;
   transition: all 0.4s ease;
@@ -395,7 +395,7 @@ label {
 #breaker{
     height: 100vh;
     width: 200%;
-    background-color: #49b9ca;
+    background-color: #800080;
     opacity: 1;
     animation: breakeranimate 2s linear;
     display: none;
@@ -415,7 +415,7 @@ label {
     100%{ transform : translateX(100%) }
 } */
 .color {
-  color: #49b9ca;
+  color: #800080;
   transition: all 0.4s ease;
 }
 #about {
@@ -517,7 +517,7 @@ label {
   font-family: poppins;
   font-weight: 400;
   font-size: 35px;
-  color: #49b9ca;
+  color: #800080;
   transition: all 0.4s ease;
 }
 .cv {
@@ -528,7 +528,7 @@ label {
   border: none;
   padding: 15px 30px;
   color: whitesmoke;
-  background: #49b9ca;
+  background: #800080;
   outline: none;
   font-size: 20px;
   font-family: aileron;
@@ -601,14 +601,14 @@ label {
   margin: 20px;
   border-radius: 30%;
   padding: 10px;
-  border: 0px solid #49b9ca;
-  background: #49b9ca;
-  box-shadow: 0px 0px 0px 0px #49b9ca;
+  border: 0px solid #800080;
+  background: #800080;
+  box-shadow: 0px 0px 0px 0px #800080;
   height: 100px;
   transition: all 0.8s ease;
 }
 .service:hover .service-img img {
-  box-shadow: 0px 0px 0px 400px #49b9ca;
+  box-shadow: 0px 0px 0px 400px #800080;
 }
 .service-description {
   font-family: poppins;
@@ -695,7 +695,7 @@ label {
   transition: all 0.4s ease;
   width: 95%;
   border-radius: 10px;
-  background: #49b9ca;
+  background: #800080;
 }
 .js-progress {
   position: absolute;
@@ -709,7 +709,7 @@ label {
   transition: all 0.4s ease;
   width: 90%;
   border-radius: 10px;
-  background: #49b9ca;
+  background: #800080;
 }
 .adobe-progress {
   position: absolute;
@@ -722,7 +722,7 @@ label {
   transition: all 0.4s ease;
   width: 83%;
   border-radius: 10px;
-  background: #49b9ca;
+  background: #800080;
 }
 .php-progress {
   position: absolute;
@@ -734,7 +734,7 @@ label {
   justify-content: center;
   width: 85%;
   border-radius: 10px;
-  background: #49b9ca;
+  background: #800080;
   transition: all 0.4s ease;
 }
 .jquery-progress {
@@ -748,7 +748,7 @@ label {
   transition: all 0.4s ease;
   width: 94%;
   border-radius: 10px;
-  background: #49b9ca;
+  background: #800080;
 }
 .seo-progress {
   position: absolute;
@@ -761,7 +761,7 @@ label {
   width: 84%;
   border-radius: 10px;
   transition: all 0.4s ease;
-  background: #49b9ca;
+  background: #800080;
 }
 .portfolio-header {
   height: auto;
@@ -820,7 +820,7 @@ label {
   font-family: poppins;
   font-weight: 200;
   padding: 20px;
-  color: #49b9ca;
+  color: #800080;
   transition: all 0.4s ease;
 }
 .portfolio-text p {
@@ -837,11 +837,11 @@ label {
   font-weight: 200;
   padding: 10px 20px;
   background: transparent;
-  color: #49b9ca;
+  color: #800080;
   transition: all 0.4s ease;
   outline: none;
   margin: 20px;
-  border: 1.5px solid #49b9ca;
+  border: 1.5px solid #800080;
   cursor: pointer;
   overflow: hidden;
   position: relative;
@@ -856,7 +856,7 @@ label {
   top: 0;
   left: 0;
   z-index: 3;
-  background: #49b9ca;
+  background: #800080;
   transition: all 0.7s ease;
 }
 .portfolio-text button:hover {
@@ -887,7 +887,7 @@ button:hover .index {
   content: "";
   height: 100%;
   width: 100%;
-  background: #49b9ca;
+  background: #800080;
   opacity: 0.1;
   top: 0;
   left: 0;
@@ -988,7 +988,7 @@ button:hover .index {
   position: absolute;
   left: 0;
   bottom: 0;
-  background: #49b9ca;
+  background: #800080;
   color: whitesmoke;
   font-size: 18px;
   text-align: center;
@@ -1171,7 +1171,7 @@ form button {
   font-family: poppins;
   font-size: 20px;
   color: whitesmoke;
-  background: #49b9ca;
+  background: #800080;
   opacity: 0.8;
   margin: 20px;
   cursor: pointer;
@@ -1296,7 +1296,7 @@ form button:hover {
   width: 100%;
 }
 .color-red {
-  background: #49b9ca;
+  background: #800080;
 }
 .color-purple {
   background: #481380;
@@ -1399,7 +1399,7 @@ For devices with smaller width like mobile phone
   #breaker {
     height: 50vh;
     width: 200%;
-    background-color: #49b9ca;
+    background-color: #800080;
     opacity: 1;
     animation: breakeranimate 2s linear;
     display: none;
@@ -1579,7 +1579,7 @@ For devices with smaller width like mobile phone
     display: none;
   }
   .service:hover .service-img img {
-    box-shadow: 0px 0px 0px 0px #49b9ca;
+    box-shadow: 0px 0px 0px 0px #800080;
   }
   .portfolio-image img {
     height: 300px;
@@ -1863,7 +1863,7 @@ for tabs and large phones
   #breaker {
     height: 50vh;
     width: 200%;
-    background-color: #49b9ca;
+    background-color: #800080;
     opacity: 1;
     animation: breakeranimate 2s linear;
     display: none;
@@ -2057,7 +2057,7 @@ for tabs and large phones
     display: none;
   }
   .service:hover .service-img img {
-    box-shadow: 0px 0px 0px 0px #49b9ca;
+    box-shadow: 0px 0px 0px 0px #800080;
   }
   .portfolio-image img {
     height: 380px;
