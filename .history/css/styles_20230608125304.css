@@ -1,0 +1,24 @@
+.switch {
+  width: 80px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: rgb(39, 38, 38);
+  position:relative:
+}
+
+.flicker {
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  background-color: rgb(255, 255, 255);
+  position:absolute;
+  top: 5px;
+  left: 5px;
+  box-shadow: 
+    inset 4px 4px 4px rgb(255, 255, 255);
+    inset -4px -4px -1px rgb(195 193 198 / 90%);
+}
+
+.dark {
+    background-color: rgb(57, 57, 57);
+}
