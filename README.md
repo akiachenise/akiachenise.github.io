@@ -9,7 +9,7 @@ Portfolio Website that showcases recent works
 Contributors names and contact info
 
  Akia Young
-[@KiiaaBiiaa](https://twitter.com/kiiaabiiaa)
+
 =======
 # Developed By Akia 
 
