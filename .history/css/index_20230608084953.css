@@ -385,7 +385,7 @@ label {
   transition: all 0.4s ease;
 }
 .contact img:hover {
-  opacity: 2;
+  opacity: 1;
   transform: scale(1.1);
 }
 /*
