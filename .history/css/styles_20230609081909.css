@@ -25,7 +25,7 @@ h2 {
 
 p {
     margin: 0px;
-    font-size: 13px;
+    font-size: 20px;
 }
 
 a {
@@ -117,7 +117,6 @@ header {
 }
 
 #web-design {
-    background-image: url("../images/web-design.png");
     background-size: cover;
 }
 
