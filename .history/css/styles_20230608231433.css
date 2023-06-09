@@ -168,7 +168,7 @@ header {
     position: absolute;
     content: "";
     width: 21px;
-    height: 79px;
+    height: 100px;
     transform: skewY(-45deg);
     left: -20px;
     bottom: -10px;

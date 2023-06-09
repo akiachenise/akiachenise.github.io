@@ -160,7 +160,7 @@ header {
 .cube {
     position: absolute;
     width: 80px;
-    height: 79px;
+    height: 80px;
     transform:rotate(-25deg) skew(25deg);
 }
 
@@ -168,7 +168,7 @@ header {
     position: absolute;
     content: "";
     width: 21px;
-    height: 79px;
+    height: 100px;
     transform: skewY(-45deg);
     left: -20px;
     bottom: -10px;
