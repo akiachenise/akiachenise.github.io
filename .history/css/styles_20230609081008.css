@@ -254,13 +254,10 @@ header {
   
 
 footer {
-    background-color: rgb(8, 8, 8);
-    width: 100%;
-    padding: 20px;
     display: flex;
-    font-family: poppins;
-    align-items: center;
-    justify-content: center;    
+    justify-content: center;
+    padding: 100px 30px;
+    background-color: rgb(136, 136, 136);    
 }
 
 .dark footer {
