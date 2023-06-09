@@ -136,7 +136,6 @@ header {
 }
 .dark #coming-soon {
     background-image: url("../images/coming-soon-dark.png");
-    background-size: cover;
 }
 
 .sub-section {
