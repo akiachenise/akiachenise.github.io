@@ -155,6 +155,7 @@ header {
     position: absolute;
     width: 80px;
     height: 80px;
+    background-color: pink;
     transform:rotate(-25deg) skew(25deg);
 }
 
@@ -163,7 +164,7 @@ header {
     content: "";
     width: 21px;
     height: 100px;
-
+    background-color: blue;
     transform: skewY(-45deg);
     left: -20px;
     bottom: -10px;
@@ -174,6 +175,7 @@ header {
     content: "";
     width: 100%;
     height: 21px;
+    background-color: rgb(214, 23, 23);
     transform: skewX(-45deg);
     left: -10px;
     bottom: -20px;
@@ -182,17 +184,7 @@ header {
 #html {
     background-image: url("../images/html-square.png");
     background-size: cover;
-    background-color: rgb(175, 119, 227);
 }
-
-#html:before {
-    background-color: rgb(189, 154, 221);
-}
-
-#html:after {
-    background-color: rgb(205, 188, 221);
-}
-
 
 
 

@@ -182,17 +182,8 @@ header {
 #html {
     background-image: url("../images/html-square.png");
     background-size: cover;
-    background-color: rgb(175, 119, 227);
+    background-color: rgb(165,96, 231);
 }
-
-#html:before {
-    background-color: rgb(189, 154, 221);
-}
-
-#html:after {
-    background-color: rgb(205, 188, 221);
-}
-
 
 
 
